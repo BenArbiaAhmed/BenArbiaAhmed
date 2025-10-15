@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben Arbia Ahmed</h1>
 <h3 align="center">A passionate Fullstack Developer and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Talksy**
+- 🔭 I’m currently working on **emotion-based-music-player**
 
-- 🌱 I’m currently learning **Containerization and Deep Learning**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **ahmedbenarbia15@gmail.com**
 
