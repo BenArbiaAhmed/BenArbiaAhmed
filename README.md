@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben Arbia Ahmed</h1>
-<h3 align="center">A passionate Fullstack Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">A Software Engineering Student and Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on **audio-semantic-search**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **ahmedbenarbia15@gmail.com**
 
