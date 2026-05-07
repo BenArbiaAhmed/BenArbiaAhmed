@@ -107,15 +107,6 @@ End-to-end audio retrieval pipeline: upload → FFmpeg preprocessing → Whisper
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenArbiaAhmed&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenArbiaAhmed&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 <p align="center">
   <i>Always building. Always learning.</i>
 </p>
