@@ -11,7 +11,7 @@
 
 ## About me
 
-3rd-year Software Engineering student at **INSAT** building production-grade AI systems — multi-agent pipelines, RAG search engines, and real-time Computer Vision applications. Comfortable across the full stack and the AI spectrum, with a bias toward shipping complete, well-engineered products.
+4th-year Software Engineering student at **INSAT** building production-grade AI systems — multi-agent pipelines, RAG search engines, and real-time Computer Vision applications. Comfortable across the full stack and the AI spectrum, with a bias toward shipping complete, well-engineered products.
 
 - 🎓 Studying Software Engineering at **INSAT, Tunis**
 - 🤖 Currently exploring **Agentic AI**, **LangGraph**, and **LLM orchestration**
